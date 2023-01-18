@@ -15,3 +15,9 @@ ax.yaxis.set_ticks_position('left')
 ax.spines['left'].set_position(('data',0))
 ...
 ```
+
+[完整示例代码](exercice_7.py)
+
+输出效果:
+
+![Figure_7](Figure_7.png)

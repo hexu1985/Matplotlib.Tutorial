@@ -8,3 +8,9 @@ xticks( [-np.pi, -np.pi/2, 0, np.pi/2, np.pi])
 yticks([-1, 0, +1])
 ...
 ```
+
+[完整示例代码](exercice_5.py)
+
+输出效果:
+
+![Figure_5](Figure_5.png)

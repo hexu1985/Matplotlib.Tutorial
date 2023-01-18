@@ -9,3 +9,9 @@ for label in ax.get_xticklabels() + ax.get_yticklabels():
     label.set_bbox(dict(facecolor='white', edgecolor='None', alpha=0.65 ))
 ...
 ```
+
+[完整示例代码](exercice_10.py)
+
+输出效果:
+
+![Figure_10](Figure_10.png)

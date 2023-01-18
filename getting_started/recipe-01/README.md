@@ -20,4 +20,5 @@ plt.show()
 [完整示例代码](exercice_1.py)
 
 输出效果:
+
 ![Figure_1](Figure_1.png)

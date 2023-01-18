@@ -9,3 +9,9 @@ plot(X, C, color="blue", linewidth=2.5, linestyle="-")
 plot(X, S, color="red",  linewidth=2.5, linestyle="-")
 ...
 ```
+
+[完整示例代码](exercice_3.py)
+
+输出效果:
+
+![Figure_3](Figure_3.png)

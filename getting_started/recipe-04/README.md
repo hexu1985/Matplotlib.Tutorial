@@ -27,3 +27,9 @@ ylim(y1, y2)
 ```python
 axis([x1, x2, y1, y2])
 ```
+
+[完整示例代码](exercice_4.py)
+
+输出效果:
+
+![Figure_4](Figure_4.png)

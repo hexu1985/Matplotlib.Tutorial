@@ -11,3 +11,8 @@ legend(loc='upper left')
 ...
 ```
 
+[完整示例代码](exercice_8.py)
+
+输出效果:
+
+![Figure_8](Figure_8.png)

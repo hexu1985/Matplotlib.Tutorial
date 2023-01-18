@@ -40,3 +40,10 @@ yticks(np.linspace(-1,1,5,endpoint=True))
 show()
 
 ```
+
+
+[完整示例代码](exercice_2.py)
+
+输出效果:
+
+![Figure_2](Figure_2.png)

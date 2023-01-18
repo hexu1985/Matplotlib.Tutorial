@@ -23,3 +23,9 @@ annotate(r'$\cos(\frac{2\pi}{3})=-\frac{1}{2}$',
          arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=.2"))
 ...
 ```
+
+[完整示例代码](exercice_9.py)
+
+输出效果:
+
+![Figure_9](Figure_9.png)
