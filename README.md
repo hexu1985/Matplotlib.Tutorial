@@ -76,7 +76,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ## Matplotlib 语法
 
-### [初级绘制](getting_started/README.md)
+### [入门介绍](getting_started/getting_started.ipynb)
+### [绘制并定制化图表](basic_plots/basic_plots.ipynb)
 
 
 ### 参考链接:
